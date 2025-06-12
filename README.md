@@ -1,4 +1,4 @@
 # tela-login
 Tela de Login, utilizando FreeSimpleGUI.
  
-![image](https://github.com/user-attachments/assets/a3104693-b5ce-4478-a581-b582691b610a)
+![image](https://github.com/user-attachments/assets/47318ea5-e22f-4ab7-9e73-fc68efea1c38)
