@@ -1,5 +1,4 @@
 # tela-login
-Tela de Login simples, utilizando Tkinter.
+Tela de Login, utilizando FreeSimpleGUI.
  
-![image](https://github.com/user-attachments/assets/1c4409d4-ae48-4328-9622-8b972e577b57)
-
+![image](https://github.com/user-attachments/assets/a3104693-b5ce-4478-a581-b582691b610a)
